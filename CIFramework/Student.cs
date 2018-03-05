@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CIFramework
 {
-    class Student
+    public class Student
     {
+        public string getAddress()
+        {
+            return "Elisagårdsvej 5";
+        }
     }
 }
