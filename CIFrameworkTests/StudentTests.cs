@@ -17,7 +17,7 @@ namespace CIFramework.Tests
             Student S1 = new Student();
 
         
-            Assert.AreEqual("Jernbanegade 3", S1.getAddress());
+            Assert.AreEqual("Elisagårdsvej 5", S1.getAddress());
         }
     }
 }
