@@ -8,5 +8,9 @@ namespace CIFramework
 {
     public class Class1
     {
+        public string getName()
+        {
+            return "Daniel";
+        }
     }
 }
